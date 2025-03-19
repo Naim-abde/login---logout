@@ -16,7 +16,7 @@
         <label for="sujet">password : </label>
         <input type="password" name="sujet" id="sujet">
         <input type="submit" value="Create" class="create">
-         <a href="index.html">recording</a>
+         <a href="index.html">Register</a>
          </div>
     </form>
 </body>
